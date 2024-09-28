@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ces\\source\\repos\\galeriaFoto1002\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B1C9F-FAF0-45D1-8800-B2103CB1FE1B}|galeriaFoto1002\\galeriaFoto1002.vbproj|c:\\users\\ces\\source\\repos\\galeriafoto1002\\galeriafoto1002\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{F81B1C9F-FAF0-45D1-8800-B2103CB1FE1B}|galeriaFoto1002\\galeriaFoto1002.vbproj|solutionrelative:galeriafoto1002\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F81B1C9F-FAF0-45D1-8800-B2103CB1FE1B}|galeriaFoto1002\\galeriaFoto1002.vbproj|c:\\users\\ces\\source\\repos\\galeriafoto1002\\galeriafoto1002\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{F81B1C9F-FAF0-45D1-8800-B2103CB1FE1B}|galeriaFoto1002\\galeriaFoto1002.vbproj|solutionrelative:galeriafoto1002\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "C:\\Users\\Ces\\source\\repos\\galeriaFoto1002\\galeriaFoto1002\\Form1.vb",
+              "RelativeDocumentMoniker": "galeriaFoto1002\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ces\\source\\repos\\galeriaFoto1002\\galeriaFoto1002\\Form1.vb",
+              "RelativeToolTip": "galeriaFoto1002\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-10T22:47:59.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Ces\\source\\repos\\galeriaFoto1002\\galeriaFoto1002\\Form1.vb",
+              "RelativeDocumentMoniker": "galeriaFoto1002\\Form1.vb",
+              "ToolTip": "C:\\Users\\Ces\\source\\repos\\galeriaFoto1002\\galeriaFoto1002\\Form1.vb [Dise\u00F1o]",
+              "RelativeToolTip": "galeriaFoto1002\\Form1.vb [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-02-10T22:44:54.245Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
